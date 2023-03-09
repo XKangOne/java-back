@@ -3,10 +3,6 @@
 LSpring-mvc-learning/src/main/java/org/example/controller/TestController.java,0\5\0543d0bed207045a013c5832c374e2a4ed86223d
 r
 BSpring-mvc-learning/src/main/java/org/example/entity/register.java,5\e\5ed955ab628d9312f90aac927810a6a8fb6c8c7a
-d
-4Spring-mvc-learning/src/main/webapp/investigate.html,0\a\0a07d5535a1126029324a969bc103c93692de85e
-r
-BSpring-mvc-learning/src/main/java/org/example/entity/CardItem.java,e\4\e44a55ad00f714553861de2bc84f89c63ae2f5e0
 o
 ?Spring-mvc-learning/src/main/webapp/WEB-INF/jsp/investigate.jsp,4\5\45d45dce177baebe0489e530de2ed07c840d1484
 |
@@ -15,10 +11,6 @@ s
 CSpring-mvc-learning/src/main/java/org/example/entity/LoginUser.java,b\c\bcfa3d244376521d99ce56b1a8588e9c5d4dc556
 }
 MSpring-mvc-learning/src/main/java/org/example/controller/ApplyController.java,5\4\54c8f1b4d58843856b3653a6fb6eff66a1fa8de2
-j
-:Spring-mvc-learning/src/main/webapp/WEB-INF/ftl/result.ftl,3\3\335b579751c273abcfa1363f5265fe57285af7c2
-^
-.Spring-mvc-learning/src/main/webapp/index.html,5\4\541332ed9177025548a1807322d5a7160b290d91
 h
 8Spring-mvc-learning/src/main/webapp/WEB-INF/jsp/user.jsp,f\7\f73bb08aed39d94b5382f6036671ff833ef2c0be
 i
@@ -27,5 +19,3 @@ k
 ;Spring-mvc-learning/src/main/webapp/WEB-INF/jsp/success.jsp,3\6\369c98db16e133dbc92d2e0252e65108702826f4
 m
 =Spring-mvc-learning/src/main/webapp/WEB-INF/jsp/user_edit.jsp,6\7\67ab1da49f5bc4172fd2a106d771b0707d9bcc25
-l
-<Spring-mvc-learning/src/main/webapp/WEB-INF/jsp/register.jsp,c\c\ccbd5f5a9baee660bb025f74f2ad1ace4f3bf698
